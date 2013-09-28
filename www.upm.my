@@ -1,0 +1,750 @@
+
+
+<html>
+
+<head>
+	<title>UNIVERSITI PUTRA MALAYSIA</title>
+	<meta name="keywords" content="UPM,universiti,university, putra, malaysia, research">
+	<meta name="description" content="laman web universiti putra malaysia">
+
+<link href=js_css/global_upm.css rel=stylesheet type=text/css>
+<link href="js_css/menu.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="js_css/anylinkvertical.js">
+var ns4class=''
+</script>
+<!--[if lte IE 7]>
+<style>#menuwrapper, #upmmenubar, #upmmenubar1, #upmmenubar0 ul a {height: 1%;}
+a:active {width: auto;}</style>
+<![endif]-->
+
+
+
+
+</head>
+
+
+
+<body  topmargin="0" leftmargin="0">
+<font size=1 color=cccccc>2</font>
+<CENTER>
+
+<table border="0" cellpadding="0" cellspacing="0" width="744" height="72">
+<tr><td colspan="3"><img src="image/h.jpg"></td></tr>
+<tr>
+<td width="5" height="100%" background="image/1.jpg" valign="top"><img src="image/t1.jpg"></td>
+<td width="734" bgcolor="#FDFDFD" valign="top">
+
+
+<!-- START HEAD -->
+<table topmargin="0" leftmargin="0" border="0" cellpadding="0" cellspacing="0" width="734">
+<tr>
+	<td><img src="image/h_1.jpg" border="0"></td>
+	<td>	
+	<table topmargin="0" leftmargin="0" border="0" cellpadding="0" cellspacing="0">
+
+	<tr>
+
+			<td background="image/h_2a.jpg" border="0" align="right" width="365">
+			<span id="menuatas">
+			<a href=?>Utama</a></span>&nbsp; |&nbsp; <span id=menuatas> <a href=?l=e&>English</a> </span> &nbsp;|&nbsp;<span id=carian>  Carian:&nbsp;</span>		
+			
+			</td>
+
+			<td>
+							
+					<table bgcolor="#EBECEE" topmargin="0" leftmargin="0" border="0" cellpadding="0" cellspacing="0" width="277" height="20">
+					<tr><form method=get action=".">		
+					<td valign="top">
+						<input name="cari" type="text" size="8" id="kotaksearch" maxlength=15>
+							</td>
+							<td valign="top">
+								<select name="jenis" id="pilihsearch">
+							<OPTION value=''>- Pilih Kategori -</option>							<OPTION value=1>Direktori Staf
+							<OPTION value=4>Kepakaran
+							<OPTION value=2>Laman Web UPM
+							<OPTION value=3>Google::UPM
+								</select>
+							</td>
+							<td valign="middle">
+						<input type=image src="image/b_cari.jpg">
+								<!--<input type=submit value=CARI>-->
+							</td>
+						
+							<input name="aktvt" type="hidden" value="cari"> 
+							<input name="kat" type="hidden" value="X"> 
+							<input name="menu" type="hidden" value="hide">
+					</form></tr></table>
+
+					</td></tr>
+		 <tr><td  colspan="2" background="image/h_2b.jpg" border="0" width=640 height=49 align="right" valign=bottom><img src="image/jata.gif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td></tr>		
+
+		<tr><td height="19" colspan="2" background="image/h_2c.jpg" border="0" align="left">
+		<div id="thick">
+
+		Selamat Datang Ke Laman Web Rasmi Universiti Penyelidikan Yang Ulung di Malaysia</div></td></tr>
+
+	</table>
+	</td>
+</tr>
+</table>
+<!-- END HEAD -->
+
+
+<!-- START MENU -->
+
+	  <!-- START MENU -->
+
+	  <SCRIPT language="JavaScript">
+  if (document.images)
+   {
+     pic1on= new Image(52,17);
+     pic1on.src="image/b1_upm1_hl.jpg";  
+     pic1off= new Image(52,17);
+     pic1off.src="image/b1_upm1.jpg";
+
+     pic2on= new Image(95,17);
+     pic2on.src="image/b2_penyelidikan1_hl.jpg";   
+     pic2off= new Image(95,17);
+     pic2off.src="image/b2_penyelidikan1.jpg"; 
+
+     pic3on= new Image(80,17);
+     pic3on.src="image/b3_akademik1_hl.jpg";  
+     pic3off= new Image(80,17);
+     pic3off.src="image/b3_akademik1.jpg"; 
+
+     pic4on= new Image(121,17);
+     pic4on.src="image/b4_hep1_hl.jpg";  
+     pic4off= new Image(121,17);
+     pic4off.src="image/b4_hep1.jpg";
+
+     pic5on= new Image(63,17);
+     pic5on.src="image/b5_bisnes1_hl.jpg";  
+     pic5off= new Image(63,17);
+     pic5off.src="image/b5_bisnes1.jpg";
+
+     pic6on= new Image(103,17);
+     pic6on.src="image/b6_perkhidmatan1_hl.jpg";  
+     pic6off= new Image(103,17);
+     pic6off.src="image/b6_perkhidmatan1.jpg";
+
+     pic7on= new Image(104,17);
+     pic7on.src="image/b7_bakal1_hl.jpg";  
+     pic7off= new Image(104,17);
+     pic7off.src="image/b7_bakal1.jpg";
+
+     pic8on= new Image(123,17);
+     pic8on.src="image/b8_pelajar1_hl.jpg";  
+     pic8off= new Image(123,17);
+     pic8off.src="image/b8_pelajar1.jpg";
+
+     pic9on= new Image(120,17);
+     pic9on.src="image/b9_pasca1_hl.jpg";  
+     pic9off= new Image(120,17);
+     pic9off.src="image/b9_pasca1.jpg";
+
+     pic10on= new Image(142,17);
+     pic10on.src="image/b10_pelawat1_hl.jpg";  
+     pic10off= new Image(142,17);
+     pic10off.src="image/b10_pelawat1.jpg";
+
+     pic11on= new Image(70,17);
+     pic11on.src="image/b11_alumni1_hl.jpg";  
+     pic11off= new Image(70,17);
+     pic11off.src="image/b11_alumni1.jpg";
+
+     pic12on= new Image(80,17);
+     pic12on.src="image/b12_pegawai1_hl.jpg";  
+     pic12off= new Image(80,17);
+     pic12off.src="image/b12_pegawai1.jpg";
+
+     pic13on= new Image(125,17);
+     pic13on.src="image/b13_jaringan1_hl.jpg";  
+     pic13off= new Image(125,17);
+     pic13off.src="image/b13_jaringan1.jpg";
+  }
+
+function lightup(imgName)
+ {
+   if (document.images)
+    {
+      imgOn=eval(imgName + "on.src");
+      document[imgName].src= imgOn;
+    }
+ }
+
+function turnoff(imgName)
+ {
+   if (document.images)
+    {
+      imgOff=eval(imgName + "off.src");
+      document[imgName].src= imgOff;
+    }
+ }
+</SCRIPT>
+
+<table topmargin="0" leftmargin="0" border="0" cellpadding="0" cellspacing="0" width="734">
+<tr>
+	<td width="95" height="17" background="image/barinfo1.jpg"><div id="info">&nbsp;&nbsp;Info&nbsp;Mengenai:</div></td>
+	<td width="52"><A HREF="?kat=D&aktvt=" onMouseover="lightup('pic1')" onMouseout="turnoff('pic1')"><IMG SRC="image/b1_upm1.jpg" name="pic1" width="52" border="0"></A></td>
+	<td width="95"><A HREF="?kat=C&aktvt=" onMouseover="lightup('pic2')" onMouseout="turnoff('pic2')"><IMG SRC="image/b2_penyelidikan1.jpg" name="pic2" width="95" border="0"></A></td>
+	<td width="80"><A HREF="?kat=G&aktvt=" onMouseover="lightup('pic3')" onMouseout="turnoff('pic3')"><IMG SRC="image/b3_akademik1.jpg" name="pic3" width="80" border="0"></A></td>
+	<td width="121"><A HREF="?kat=F&aktvt=" onMouseover="lightup('pic4')" onMouseout="turnoff('pic4')"><IMG SRC="image/b4_hep1.jpg" name="pic4" width="121" border="0"></A></td>
+	<td width="125"><A HREF="?aktvt=content&kat=D&kod=20071231365110346172165447" onMouseover="lightup('pic13')" onMouseout="turnoff('pic13')"><IMG SRC="image/b13_jaringan1.jpg" name="pic13" width="125" border="0"></A></td>
+	<td width="63"><A HREF="?kat=Z&aktvt=" onMouseover="lightup('pic5')" onMouseout="turnoff('pic5')"><IMG SRC="image/b5_bisnes1.jpg" name="pic5" width="63" border="0"></A></td>
+	<td width="103"><A HREF="?kat=S&aktvt=" onMouseover="lightup('pic6')" onMouseout="turnoff('pic6')"><IMG SRC="image/b6_perkhidmatan1.jpg" name="pic6" width="103" border="0"></A></td>
+</tr>
+</table>
+<table topmargin="0" leftmargin="0" border="0" cellpadding="0" cellspacing="0" width="734">
+<tr>
+	<td width="95" height="17" background="image/barinfo2.jpg"><div id="info">&nbsp;&nbsp;Info Untuk:</div></td>
+	<td width="104"><A HREF="?kat=U&aktvt=" onMouseover="lightup('pic7')" onMouseout="turnoff('pic7')"><IMG SRC="image/b7_bakal1.jpg" name="pic7" width="104" border="0" align="middle"></A></td>
+	<td width="123"><A HREF="?kat=X&aktvt=" onMouseover="lightup('pic8')" onMouseout="turnoff('pic8')"><IMG SRC="image/b8_pelajar1.jpg" name="pic8" width="123" border="0" align="middle"></A></td>
+	<td width="120"><A HREF="?kat=Y&aktvt=" onMouseover="lightup('pic9')" onMouseout="turnoff('pic9')"><IMG SRC="image/b9_pasca1.jpg" name="pic9" width="120" border="0" align="middle"></A></td>
+	<td width="142"><A HREF="?kat=R&aktvt=" onMouseover="lightup('pic10')" onMouseout="turnoff('pic10')"><IMG SRC="image/b10_pelawat1.jpg" name="pic10" width="142" border="0" align="middle"></A></td>
+	<td width="80"><A HREF="?kat=V&aktvt=" onMouseover="lightup('pic12')" onMouseout="turnoff('pic12')"><IMG SRC="image/b12_pegawai1.jpg" name="pic12" width="80" border="0" align="middle"></A></td>
+	<td width="70"><A HREF="?kat=T&aktvt=" onMouseover="lightup('pic11')" onMouseout="turnoff('pic11')"><IMG SRC="image/b11_alumni1.jpg" name="pic11" width="70" border="0" align="middle"></A></td>
+
+</tr>
+</table>
+
+<!-- END MENU -->
+
+<!-- END MENU -->
+
+
+<!-- START IMAGE -->
+<table topmargin="0" leftmargin="0" border="0" cellpadding="0" cellspacing="0" width="734">
+<tr>
+<td><div style="z-index:1;">
+		<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=4,0,2,0" width="634" height="100">
+			<param name="movie" value="image/i_event01BM.swf">
+			<param name="quality" value="best">
+			<param name="wmode" value="transparent">
+			<embed src="image/i_event01BI.swf" type="application/x-shockwave-flash" wmode="transparent" quality="best" width="634" height="100" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" qwmode="transparent"></embed>
+		</object></div>
+</td>
+
+<td width="100" background="image/kotak_khas.jpg">
+	<table width="100" height="100" border="0">
+		<tr><td height=2></td></tr>
+	<tr><td width="4"><img src="image/dotkhas.jpg"></td><td width="100%"><a class="one" href="?kat=D&aktvt="><span id="khas1">Inspirasi NC</span></a></td></tr>
+	<tr><td width="4"><img src="image/dotkhas2.jpg"></td><td width="100%"><a class="one" href="?aktvt=content&kat=D&kod=20070619170204508172169888"><span id="khas2">Fakta UPM</span></a></td></tr>
+	<tr><td width="4"><img src="image/dotkhas.jpg"></td><td width="100%"><a class="one" href="?aktvt=content&kat=D&kod=20071007280141747172169882"><span id="khas1">Piagam Pelanggan</span></a></td></tr>
+        <tr><td width="4"><img src="image/dotkhas2.jpg"></td><td width="100%"><a class="one" href="http://www.upm.edu.my/theputra/tp1.pdf"><span id="khas2">The Putra</span></a></td></tr>
+	<!--<tr><td width="5"><img src="image/dotkhas2.jpg"></td><td width="100%"><a class="one" href="?kat=U&aktvt="><div id="khas2">Kemasukan Pelajar 2007</div></a></td></tr>-->
+	<!--<tr><td width="5"><img src="image/dotkhas.jpg"></td><td width="100%"><div id="khas1"><a class="one"href="?aktvt=content&kat=C&kod=20070126026073044172169875">RU</a></div></td></tr>-->
+		<tr><td height="100%"></td></tr>
+	</table>
+</td>
+</tr>
+</table>
+<!-- END IMAGE -->
+
+
+<!-- START CONTENT -->
+<table topmargin="0" leftmargin="0" border="0" cellpadding="0" cellspacing="0" width="734">
+<tr><td height="15"></td></tr>
+<tr>
+	<td width="15">&nbsp;</td>
+	<td width="580" valign="top">
+
+	<!--START KOTAK MAKLUMAT-->
+		<table topmargin="0" leftmargin="0" border="0" cellpadding="0" cellspacing="0" width="624" height="211">
+	<tr><td colspan="3" width="624" height="21">
+	<table topmargin="0" leftmargin="0" border="0" cellpadding="0" cellspacing="0" width="624">
+		<tr><td colspan="3" bgcolor="#9D1506" height="5"></td><td colspan="2" bgcolor="#FFFFFF"></td><td colspan="2" bgcolor="#FFFFFF"></td><td colspan="2" bgcolor="#FFFFFF"></td></tr>
+		<tr>	
+			<td width="1" height="21"><img src="image/bgkotak_tepi.jpg" border="0"></td>
+			<td background="image/bgkotak_tjk.jpg" border="0"><div id="menuaktif">Berita dan Peristiwa</div></td>	
+			<td width="1" height="21"><img src="image/bgkotak_tepi.jpg" border="0"></td>
+			<td background="image/bgkotak_tjk0.jpg" border="0"><a href="?akt=aktiviti"><div id="menupilih">Kalendar Aktiviti</div></a></td>	
+			<td width="1" height="21"><img src="image/bgkotak_tepi.jpg" border="0"></td>
+			<td background="image/bgkotak_tjk0.jpg" border="0"><a href="?akt=audio"><div id="menupilih">Pandang & Dengar</div></a></td>	
+			<td width="1" height="21"><img src="image/bgkotak_tepi.jpg" border="0"></td>
+			<td background="image/bgkotak_tjk0.jpg" border="0"><a href="?akt=fakta"><div id="menupilih">Pencapaian dan Pengiktirafan</div></a></td>	
+			<td width="1" height="21"><img src="image/bgkotak_tepi.jpg" border="0"></td>
+		</tr>
+	</table>
+	</td></tr>
+	<!--START BERITA-->
+					
+
+	<tr valign="top">
+		<td width="1" height="190" background="image/bgkotak_tepi.jpg" border="0"><img src="image/bgkotak_tepi.jpg" border="0"></td>	
+     		<td height="190" width="622" bgcolor="#FFFFFF">
+			<table border=0 cellspacing=0 cellpadding=0 width="622">
+			<tr><td>&nbsp;</td></tr>
+			<tr valign="top">
+			<td width="9">&nbsp;</td>
+<td width="132"><img src="image/berita/thumb_tolT.jpg"><br><div id="data">UPM Perkenal Talian Bebas Tol Untuk Kemudahan Pelanggan</div><div id="lagi"><a href=?kat=1&aktvt=berita&kod=201002040351317271721654101>Selanjutnya</a></div></td>
+<td width="9">&nbsp;</td>
+<td width="132"><img src="image/berita/thumb_tdin.jpg"><br><div id="data">UPM Kongsi Kepakaran Teknologi Roti Norway</div><div id="lagi"><a href=?kat=1&aktvt=berita&kod=201003100691335431721654148>Selanjutnya</a></div></td>
+<td width="9">&nbsp;</td>
+<td width="132"><img src="image/berita/thumb_kokosluar.jpg"><br><div id="data">Kerajaan Lantik Pusat Kokurikulum UPM Pusat Operasi KKB IPT</div><div id="lagi"><a href=?kat=1&aktvt=berita&kod=201003090681136111721654166>Selanjutnya</a></div></td>
+<td width="9">&nbsp;</td>
+<td width="132"><img src="image/berita/thumb_kilatluar.jpg"><br><div id="data">UPM Dapati 80% Bangunan Tiada Pelindung Kilat</div><div id="lagi"><a href=?kat=1&aktvt=berita&kod=201003080671236321721654166>Selanjutnya</a></div></td>
+
+				<td width="9">&nbsp;</td>
+			</tr>
+			<tr><td height="100%">&nbsp;</td></tr>
+			</table>
+		</td>
+		<td width="1" height="190" background="image/bgkotak_tepi.jpg" border="0"><img src="image/bgkotak_tepi.jpg" border="0"></td>
+	</tr>
+	<tr><td colspan="3" width="100%" background="image/bgkotak_bottom.jpg"><img src="image/bgkotak_bottom.jpg" border="0"></td></tr>
+	<tr><td colspan="3" align="center" height="10">
+
+
+	<!--TAMAT BERITA-->
+
+	<!--START: KOTAK POPUP -->
+	
+<tr><td colspan="3">
+	<table topmargin="0" leftmargin="0" border="0" cellpadding="0" cellspacing="0">
+		<td width="10"></td>
+	<td><a href="http://www.psasir.upm.edu.my/" target="_blank"><img src="image/kotak_aktvt62.jpg" border="0"></a></td>	
+	<!--<td><a href="http://live.upm.edu.my" target="_blank"><img src="image/kotak_aktvt71.jpg" border="0"></a></td>-->
+		<!--<td><a href="http://icelt.com.my" target="_blank"><img src="image/kotak_aktvt59.jpg" border="0"></a></td>-->
+		<!--<td><a href="?kat=U&aktvt="><img src="image/kotak_aktvt1.jpg" border="0"></a></td>-->
+		<!--<td><a href="http://www.upm.edu.my/?kat=Z&aktvt=vevD&k=20080318105337172171879&menu=hide"><img src="image/kotak_aktvt19BI.jpg" border="0"></a></td>-->
+		<!--<td><a href="http://www.upm.edu.my/?kat=Z&aktvt=vevD&k=20080423114094402172165447&menu=hide"><img src="image/kotak_aktvt22.jpg" border="0"></a></td> -->
+        	<!--<td><a href="http://live.upm.edu.my" target=_blank><img src="image/kotak_aktvt33.jpg" border="0"></a></td>-->
+		<!--<td><a href="http://rmc.upm.edu.my/researchuniversity/index.htm" target=_blank><img src="image/kotak_aktvt2.jpg" border="0"></a></td> -->
+         	<!--<td><a href="http://live.upm.edu.my"><img src="image/kotak_aktvt39.jpg" border="0"></a></td> -->
+          	<!--<td><a href="http://sites.google.com/site/upmgis" target="_blank"><img src="image/kotak_aktvt44.jpg" border="0"></a> -->
+		<!--<td><a href="http://u-events.upm.my/prpi08"><img src="image/kotak_aktvt24.jpg" border="0"></a></td> --> 
+          	<!--<td><a href="http://www.upm.edu.my/jmu/" target="_blank"><img src="image/kotak_aktvt43.jpg" border="0"></a></td> -->
+            	<!--<td><a href="http://www.bpi.upm.edu.my/indexx.php" target="_blank"><img src="image/kotak_aktvt46.jpg" border="0"></a></td> -->                
+		<!--<td><a href="http://live.upm.edu.my"><img src="image/kotak_aktvt57.jpg" border="0"></a></td> -->  
+		<!--<td><a href="http://live.upm.edu.my"><img src="image/kotak_aktvt58.jpg" border="0"></a></td> -->
+
+		<td width="10"></td>
+	<td><a href="http://www.rmc.upm.edu.my/jpertanika/index.htm" target="_blank"><img src="image/kotak_aktvt61.jpg" border="0"></a></td>
+		<!-- <td><a href="http://einspem.upm.edu.my/icrem4/" target="_blank"><img src="image/kotak_aktvt60.jpg" border="0"></a></td> -->
+		<!--<td><a href="?kat=Z&aktvt=vev&menu=hide#conf"><img src="image/kotak_aktvt4.jpg" border="0"></a></td>-->
+		<!-- <td><a href="http://u-events.upm.my/prpi" target=_blank><img src="image/kotak_aktvt50.jpg" border="0"></a></td> -->
+
+		<td width="10"></td>
+	<td><a href="http://www.upm.edu.my/?kat=Z&aktvt=vev&menu=hide"><img src="image/kotak_aktvt4.jpg" border="0"></a></td>
+		<!--<td><a href="?kat=Z&aktvt=vevD&k=20080410101093931172165447&menu=hide"><img src="image/kotak_aktvt20.jpg" border="0"></a></td>-->		
+		<!--<td><a href="http://u-events.upm.my/upmcc08/indexBM.html"><img src="image/kotak_aktvt13.jpg" border="0"></a></td> -->
+		<!--<td><a href="http://www.pkkssaas.upm.edu.my"><img src="image/kotak_aktvt11.jpg" border="0"></a></td> -->
+		<!--<td><a href="http://www.itma.upm.edu.my/ic2ms'08/"><img src="image/kotak_aktvt18.jpg" border="0"></a></td> -->
+		<!--<td><a href="http://esprint.upm.edu.my/ctlhe07/mainbm.html"><img src="image/kotak_aktvt9.jpg" border="0"></a></td>-->
+
+		<td width="10"></td>
+        <td><a href="http://www.pnc.upm.edu.my/theputra/" target="_blank" ><img src="image/kotak_aktvt56.jpg" border="0"></a></td>
+                <!--<td><a href="http://www.upm.edu.my/jmu/iklan_kpt.pdf" target="_blank"><img src="image/kotak_aktvt45.jpg" border="0"></a></td> -->
+		<!--<td><a href="http://live.upm.edu.my"><img src="image/kotak_aktvt57.jpg" border="0"></a></td>-->
+     		<!--<td><a href="http://www.upm.edu.my/?kat=Z&aktvt=vev&menu=hide"><img src="image/kotak_aktvt4.jpg" border="0"></a></td>-->
+	        <!--<td><a href="http://www.sinemamalaysia.com.my/ffvp.php"><img src="image/kotak_aktvt32.jpg" border="0"></a></td>-->
+		<!--<td><a href="http://www.upm.edu.my/?aktvt=content&kat=S&kod=20080228059183358172169890"><img src="image/kotak_aktvt17.jpg" border="0"></a></td>-->
+		<!--<td><a href="http://www.kerjaya07.upm.my/"><img src="image/kotak_aktvt5.jpg" border="0"></a></td>-->
+		<!--td><a href="http://k5.upm.edu.my/event/peniti/"><img src="image/kotak_aktvt3.jpg" border="0"></a></td>-->
+		<!--<td><a href="http://www.cade.upm.edu.my/putrasatria"><img src="image/kotak_aktvt16.jpg" border="0"></a></td>-->
+		<!--td><a href="http://science.upm.edu.my/webbm/index.php?option=com_content&task=view&id=179&Itemid=2"><img src="image/kotak_aktvt14.jpg" border="0"></a></td-->
+		<!--<td width="10"></td>-->
+                <!--konvo <td><a href="http://www.live.upm.edu.my"><img src="image/kotak_aktvt35.jpg" border="0"></a></td>-->
+	        <!--<td><a href="http://www.14ththinkingconference.com"><img src="image/kotak_aktvt38.jpg" border="0"></a></td> -->
+		<!--<td><a href="http://live.upm.edu.my"><img src="image/kotak_aktvt42.jpg" border="0"></a></td>-->
+                <!--<td><a href="http://live.upm.edu.my"><img src="image/kotak_aktvt31.jpg" border="0"></a></td>-->
+                <!--<td><a href="http://www.halal.upm.edu.my/KPH08/"><img src="image/kotak_aktvt23.jpg" border="0"></a></td>-->
+		<!--<td><a href="http://www.itma.upm.edu.my/ic2ms'08/"><img src="image/kotak_aktvt18.jpg" border="0"></a></td>-->
+		<!--td><a href="http://eundi.upm.edu.my/"><img src="image/kotak_aktvt7.jpg" border="0"></a></td-->
+
+		<td width="10"></td>
+	</table>	
+</td></tr>
+	<tr><td colspan="3" align=right>
+	<table cellpadding="0" cellspacing="0" border="0">
+	<tr>
+		<td><a href=""><a href='?aktvt=rsslist&kat=z&menu=hide'><img src="image/b_rss.gif" border=0></a></td>
+		<td valign=middle>&nbsp;RSS</td><td width=10></td>
+
+	<!-- 	<td><a href=""><img src="image/b_lokasi.gif" border=0></a></td>
+		<td valign=middle>&nbsp;Peta Lokasi</td><td width=10></td> -->
+
+	<!--	<td><a href=""><img src="image/uspot.gif" border=0></a></td>
+		<td valign=middle>&nbsp;Wireless<br>&nbsp;Hotspot</td><td width=10></td> -->
+
+                <td><a href="http://www.upm.edu.my/?kat=J&aktvt="><img src="mqa/mqa.jpg" border="0"></a></td><td width=10></td>
+
+		<td><a href="http://www.bpi.upm.edu.my/indexx.php" target="_blank"><img src="image/eiso.jpg" border=0></a></td>
+		<td valign=middle>&nbsp;<font size="1">Penyelidikan</font><br>&nbsp;<font size="1"><i>Research</i></font></td><td width=10></td> 
+
+		<td><a href="http://www.msc.com.my" target="_blank"><img src="image/logo_msc.jpg" border=0></a></td>
+		
+		<td><a href="http://www.malaysia.gov.my" target="_blank"><img src="image/logo_myGov.jpg" border=0></a></td>
+
+	</tr>
+	</table>
+	</td></tr>
+	<!--TAMAT: KOTAK POPUP -->
+	</table>
+
+		
+
+	<!--TAMAT KOTAK MAKLUMAT-->
+
+	</td>
+	<td width="14">&nbsp;</td>
+	<td valign="top">
+	
+	<!--MULA: CAPAIAN PANTAS -->
+	
+	<table width="70" cellpadding="0" cellspacing="0" border="0" align=right>
+<!--
+	<tr>
+	  <td></td>
+	  <td valign="middle"><div align="center"><a href="?kat=Z&aktvt=mbupm&menu=hide"><img alt="Pertanyaan/Maklumbalas" src="image/info.jpg" width="90" height="55" border="0"></a></div></td>
+	</tr>
+-->
+	<tr height="15">
+		<td width="5" height="15"></td>
+		<td width="110" height="15" valign="middle">
+			<div id="tjkpantas">CAPAIAN PANTAS</div></td>
+	</tr>
+        
+
+       <tr>
+               <td width="5"></td>
+               <td width="110">
+                       <a href="http://www.upm.edu.my" onclick="return clickreturnvalue()" onmouseover="dropdownmenu(this, event, 'anylinkmenu16')" class="menulink" class=&{ns4class}};><div id="pantas">Pejabat Naib<br>&nbsp;Canselor</div></a>
+                       <div id="anylinkmenu16" class="anylinkcss">
+                       <a href="http://www.pnc.upm.edu.my/">&nbsp;&nbsp;Bahagian Pentadbiran</a>
+                       <a href="http://www.audit.upm.edu.my/">&nbsp;&nbsp;Bahagian Audit Dalam</a>
+                       <a href="http://www.bpk.upm.edu.my/">&nbsp;&nbsp;Bahagian Perancangan Korporat</a>
+                       <a href="http://www.bkk.upm.edu.my/">&nbsp;&nbsp;Bahagian Komunikasi Korporat</a>
+                       <a href="http://www.penerbit.upm.edu.my/">&nbsp;&nbsp;Penerbit UPM</a>  
+                       <a href="http://www.osh.upm.edu.my/">&nbsp;&nbsp;Pejabat Pengurusan Keselamatan & Kesihatan Pekerjaan</a> 
+                       </div>
+
+        </td>
+        </tr> 
+
+
+	<tr>
+		<td width="5"></td>
+		<td width="110">
+			<a href="http://www.upm.edu.my" onclick="return clickreturnvalue()" onmouseover="dropdownmenu(this, event, 'anylinkmenu2')" class="menulink" class=&{ns4class};><div id="pantas">Fakulti</div></a>
+			<div id="anylinkmenu2" class="anylinkcss">
+			<a href="http://www.agri.upm.edu.my/">&nbsp;&nbsp;Pertanian </a>
+			<a href="http://www.forr.upm.edu.my/">&nbsp;&nbsp;Perhutanan </a>
+			<a href="http://www.vet.upm.edu.my/">&nbsp;&nbsp;Perubatan Veterinar </a>
+			<a href="http://www.econ.upm.edu.my/">&nbsp;&nbsp;Ekonomi dan &nbsp;&nbsp;Pengurusan </a>
+			<a href="http://eng.upm.edu.my/my/">&nbsp;&nbsp;Kejuruteraan </a>
+			<a href="http://www.educ.upm.edu.my/">&nbsp;&nbsp;Pengajian Pendidikan </a>
+			<a href="http://science.upm.edu.my/">&nbsp;&nbsp;Sains </a>
+			<a href="http://www.food.upm.edu.my/">&nbsp;&nbsp;Sains dan Teknologi<br>&nbsp; Makanan </a>
+		    <a href="http://www.eco1.upm.edu.my/">&nbsp;&nbsp;Ekologi Manusia </a>
+			<a href="http://www.fbm.upm.edu.my/">&nbsp;&nbsp;Bahasa Moden dan<br>&nbsp;&nbsp;Komunikasi </a>
+			<a href="http://www.frsb.upm.edu.my/">&nbsp;&nbsp;Rekabentuk dan &nbsp;&nbsp;Senibina </a>
+			<a href="http://www.medic.upm.edu.my/index.php?lang=my">&nbsp;&nbsp;Perubatan dan Sains<br>&nbsp;&nbsp;Kesihatan </a>
+			<a href="http://www.fsktm.upm.edu.my/">&nbsp;&nbsp;Sains Komputer dan<br>&nbsp;&nbsp;Teknologi Maklumat </a>
+			<a href="http://www.biotech.upm.edu.my/">&nbsp;&nbsp;Bioteknologi dan Sains<br>&nbsp;&nbsp;Biomolekul </a>
+			<a href="http://www.env.upm.edu.my/">&nbsp;&nbsp;Pengajian Alam Sekitar </a>
+			<a href="http://www.btu.upm.edu.my/">&nbsp;&nbsp;Sains Pertanian dan<br>
+			&nbsp;&nbsp;Makanan (UPMKB) </a></div>
+	</td>
+	</tr>
+
+	<tr>
+		<td width="5"></td>
+		<td width="110">
+			<a href="http://www.upm.edu.my" onclick="return clickreturnvalue()" onmouseover="dropdownmenu(this, event, 'anylinkmenu3')" class="menulink" class=&{ns4class};><div id="pantas">Institut</div> </a>
+			<div id="anylinkmenu3" class="anylinkcss">
+			<a href="http://www.ibs.upm.edu.my/">&nbsp;&nbsp;Biosains </a>
+			<a href="http://www.itma.upm.edu.my/">&nbsp;&nbsp;Teknologi Maju </a>
+			<a href="http://ig.upm.edu.my">&nbsp;&nbsp;Gerontologi </a>
+			<a href="http://inform.upm.edu.my">&nbsp;&nbsp;Penyelidikan Matematik<br> &nbsp;&nbsp;(INSPEM)</a> 
+			<a href="http://www.halal.upm.edu.my">&nbsp;&nbsp;Penyelidikan Produk Halal </a>
+			<a href="http://www.ikdpm.upm.edu.my/">&nbsp;&nbsp;Kajian Dasar Pertanian dan<br>&nbsp;&nbsp;Makanan </a>
+			<a href="http://www.introp.upm.edu.my">&nbsp;&nbsp;Perhutanan Tropika dan<br> &nbsp;&nbsp;Produk Hutan</a>
+			<a href="http://www.ipsas.upm.edu.my/">&nbsp;&nbsp;Pengajian Sains Sosial <br> &nbsp;&nbsp;(IPSAS)</a>
+			<a href="http://www.ita.upm.edu.my/">&nbsp;&nbsp;Pertanian Tropika </a></div>
+	</td>
+	</tr>
+
+	<tr>
+		<td width="5"></td>
+		<td width="110">
+		<a href="http://www.upm.edu.my" onclick="return clickreturnvalue()" onmouseover="dropdownmenu(this, event, 'anylinkmenu4')" class="menulink" class=&{ns4class};><div id="pantas">Akademi</div></a>
+		<div id="anylinkmenu4" class="anylinkcss">
+		<a href="http://www.sukan.upm.edu.my/index.php?lang=es">&nbsp;&nbsp;Sukan </a>
+	
+		</div>
+	</td>
+
+	</tr>
+	
+	<tr>
+		<td width="5"></td>
+		<td width="110">
+			<a href="http://www.upm.edu.my" onclick="return clickreturnvalue()" onmouseover="dropdownmenu(this, event, 'anylinkmenu5')" class="menulink" class=&{ns4class};><div id="pantas">Siswazah</div></a>
+			<div id="anylinkmenu5" class="anylinkcss">
+			<a href="http://www.gso.upm.edu.my/index-.html">&nbsp;&nbsp;Sekolah Pengajian &nbsp;&nbsp;Siswazah </a>
+			<a href="http://www.gsm.upm.edu.my">&nbsp;&nbsp;Sekolah Pengajian &nbsp;&nbsp;Siswazah
+			Pengurusan </a></div>
+		</td>
+	</tr>
+
+	<tr>
+		<td width="5"></td>
+		<td width="110">
+			<a href="http://www.upm.edu.my" onclick="return clickreturnvalue()" onmouseover="dropdownmenu(this, event, 'anylinkmenu6')" class="menulink" class=&{ns4class};><div id="pantas">Pusat</div></a>
+			<div id="anylinkmenu6" class="anylinkcss">
+			<a href="http://www.alumni.upm.edu.my/">&nbsp;&nbsp;Alumni </a>
+			<a href="http://www.rmc.upm.edu.my/">&nbsp;&nbsp;Pengurusan Penyelidikan<br>&nbsp;&nbsp;Universiti </a>
+			<a href="http://www.ppl.upm.edu.my/">&nbsp;&nbsp;Pendidikan Luar</a> 
+			<a href="http://upmcns.com">&nbsp;&nbsp;Pembangunan Perniagaan<br>&nbsp;&nbsp;Universiti</a> 
+			<a href="http://www.pic.upm.edu.my/">&nbsp;&nbsp;Islam </a>
+			<a href="http://www.pkkssaas.upm.edu.my/">&nbsp;&nbsp;Kebudayaan dan Kesenian<br>&nbsp;&nbsp;Sultan Salahuddin Abdul<br>&nbsp;&nbsp;Aziz Shah </a>
+			<a href="http://www.cade.upm.edu.my/">&nbsp;&nbsp;Pembangunan Akademik </a>
+			<a href="http://www.asasi.upm.edu.my">&nbsp;&nbsp;Asasi Sains Pertanian </a>
+			<a href="http://www.idec.upm.edu.my">&nbsp;&nbsp;Pembangunan Maklumat dan<br>&nbsp;&nbsp;Komunikasi (iDEC)</a>
+			<a href="http://www.apeec.upm.edu.my">&nbsp;&nbsp;Pengembangan,<br>&nbsp;&nbsp;Keusahawanan dan<br>&nbsp;&nbsp;Pemajuan Profesional<br>&nbsp;&nbsp;(APEEC)</a>
+			<a href="http://www.icc.upm.edu.my">&nbsp;&nbsp;Inovasi &<br>&nbsp;&nbsp;Pengkomersilan </a>
+			<a href="http://www.pku.upm.edu.my">&nbsp;&nbsp;Kesihatan Universiti </a>
+			<a href="http://www.pkk.upm.edu.my/">&nbsp;&nbsp;Kokurikulum </a>
+			<a href="http://www.i-sukan.upm.edu.my/">&nbsp;&nbsp;Sukan </a>
+			<a href="http://www.bpa.upm.edu.my/2007/my/">&nbsp;&nbsp;Hal Ehwal <br> &nbsp;&nbsp;Antarabangsa </a>
+			</div>
+		</td>
+	</tr>
+
+	<tr>
+		<td width="5"></td>
+		<td width="110">
+			<a href="http://www.upm.edu.my" onclick="return clickreturnvalue()" onmouseover="dropdownmenu(this, event, 'anylinkmenu7')" class="menulink" class=&{ns4class};><div id="pantas">Bahagian</div></a>
+			<div id="anylinkmenu7" class="anylinkcss">
+                        <a href="http://www.pnc.upm.edu.my/">&nbsp;&nbsp;Pentadbiran, Pej. Naib Canselor </a>
+			<a href="http://www.akademik.upm.edu.my/">&nbsp;&nbsp;Akademik </a>
+			<a href="http://www.hep.upm.edu.my/">&nbsp;&nbsp;Hal Ehwal Pelajar </a>
+			<a href="http://www.bkk.upm.edu.my/">&nbsp;&nbsp;Komunikasi Korporat </a>
+			<!--a href="http://www.devel.upm.edu.my/">&nbsp;&nbsp;Pembangunan </a-->
+			<a href="http://www.bpk.upm.edu.my/">&nbsp;&nbsp;Perancangan Korporat </a>
+			
+			<a href="http://www.audit.upm.edu.my/index.php?lang=my">&nbsp;&nbsp;Audit Dalam </a>
+			<a href="http://www.bk.upm.edu.my/">&nbsp;&nbsp;Keselamatan </a></div>
+	</td>
+	</tr>
+
+	<tr>
+		<td width="5"></td>
+		<td width="110">
+			<a href="http://www.admin.upm.edu.my/" class="menulink" class=&{ns4class};><div id="pantas">Pendaftar</div></a>
+		</td>
+	</tr>
+	
+	<tr>
+		<td width="5"></td>
+		<td width="110">
+			<a href="http://www.bursar.upm.edu.my/" class="menulink" class=&{ns4class};><div id="pantas">Bendahari</div></a>
+		</td>
+	</tr>
+
+	<tr>
+		<td width="5"></td>
+		<td width="110">
+			<a href="http://www.devel.upm.edu.my/" class="menulink" class=&{ns4class};><div id="pantas">Pembangunan</div></a>
+		</td>
+	</tr>
+
+<tr>
+<td width="5"></td>
+<td width="100">
+<a href="http://www.upm.edu.my/?aktvt=content&kat=F&kod=20070418108205159172165499" class="menulink" class=&{ns4class};><div id="pantas">Kolej</div></a>
+</td>
+</tr>
+<!--	<tr>
+		<td width="5"></td>
+		<td width="110">
+			<a href="http://www.upm.edu.my" onclick="return clickreturnvalue()" onmouseover="dropdownmenu(this, event, 'anylinkmenu8')" class="menulink" class=&{ns4class};><div id="pantas">Kolej</div></a>
+			<div id="anylinkmenu8" class="anylinkcss">
+			<a href="http://www.kmr.upm.edu.my/">&nbsp;&nbsp;Mohd Rashid </a>
+			<a href="http://www.k2.upm.edu.my/">&nbsp;&nbsp;Kedua </a>
+			<a href="http://www.ktdi.upm.edu.my/">&nbsp;&nbsp;Tun Dr Ismail </a>
+			<a href="http://www.kc.upm.edu.my/">&nbsp;&nbsp;Canselor </a>
+			<a href="http://www.k5.upm.edu.my/">&nbsp;&nbsp;Kelima </a>
+			<a href="http://www.k6.upm.edu.my/">&nbsp;&nbsp;Keenam </a>
+			<a href="http://www.kosass.upm.edu.my/">&nbsp;&nbsp;Sultan Alaeddin Suleiman<br>&nbsp;&nbsp;Shah </a>
+			<a href="http://www.ktp.upm.edu.my/">&nbsp;&nbsp;Tun Perak</a>
+			<a href="http://www.kpz.upm.edu.my/">&nbsp;&nbsp;Pendeta Za'ba </a>
+			<a href="http://www.k10.upm.edu.my">&nbsp;&nbsp;Ke Sepuluh </a>
+			<a href="http://www.k11.upm.edu.my/">&nbsp;&nbsp;Ke Sebelas </a>
+			<a href="http://www.k12.upm.edu.my/">&nbsp;&nbsp;Kedua Belas </a>
+			<a href="http://www.k13.upm.edu.my/">&nbsp;&nbsp;Ketiga Belas </a>
+			<a href="http://www.k14.upm.edu.my/">&nbsp;&nbsp;Keempat Belas </a>
+			<a href="http://www.k15.upm.edu.my/">&nbsp;&nbsp;Kelima Belas </a>
+			<a href="http://www.k16.upm.edu.my/">&nbsp;&nbsp;Keenam Belas </a>
+			<a href="http://www.k17.upm.edu.my/">&nbsp;&nbsp;Ketujuh Belas </a></div>
+		</td>
+	</tr>
+-->
+	<tr>
+		<td width="5"></td>
+		<td width="110">
+			<a href="http://www.upm.edu.my" onclick="return clickreturnvalue()" onmouseover="dropdownmenu(this, event, 'anylinkmenu9')" class="menulink" class=&{ns4class};><div id="pantas">Perkhidmatan</div></a>
+			<div id="anylinkmenu9" class="anylinkcss">
+			<a href="http://www.lib.upm.edu.my/">&nbsp;&nbsp;Perpustakaan </a>
+			<a href="http://www.penerbit.upm.edu.my">&nbsp;&nbsp;Penerbit </a>
+			<a href="http://www.tpu.upm.edu.my/">&nbsp;&nbsp;Taman Pertanian Universiti </a>
+			<a href="http://www.ubc.upm.edu.my/">&nbsp;&nbsp;<i>Uniputra Production</i> </a>
+			<a href="http://www.putrafm.upm.edu.my/">&nbsp;&nbsp;Radio Putra </a>
+			<a href="http://www.tpu.upm.edu.my/">&nbsp;&nbsp;Ekuin </a>
+			<a href="http://www.bpa.upm.edu.my/2007/my/">&nbsp;&nbsp;Pusat Hal Ehwal <br> &nbsp;&nbsp;Antarabangsa </a>
+			<a href="http://www.devel.upm.edu.my/">&nbsp;&nbsp;Perumahan </a>
+			<a href="http://mrtg.upm.edu.my/graph.php?action=view&rra_id=all&local_graph_id=923">&nbsp;&nbsp;Trafik Internet UPMNet </a></div>
+		</td>
+	</tr>
+
+	<tr>
+		<td width="5"></td>
+		<td width="110">
+			<a href="http://www.upm.edu.my" onclick="return clickreturnvalue()" onmouseover="dropdownmenu(this, event, 'anylinkmenu11')" class="menulink" class=&{ns4class};><div id="pantas">Persatuan</div> </a>
+			<div id="anylinkmenu11" class="anylinkcss">
+			<a href="http://www.ppa.upm.edu.my/">&nbsp;&nbsp;Persatuan Pegawai<br>&nbsp;&nbsp;Akademik (PPAUPM)</a>
+			<a href="http://www.ppupm.upm.edu.my/">&nbsp;&nbsp;Persatuan Pentadbir</a>
+			<a href="http://www.permata.upm.edu.my/">&nbsp;&nbsp;PERMATA</a> 
+			<a href="http://www.kepertama.upm.edu.my/">&nbsp;&nbsp;KEPERTAMA</a>
+			<a href="http://www.pjm.upm.edu.my/">&nbsp;&nbsp;Persatuan Juruteknologi<br>&nbsp;&nbsp;Makmal UPM</a>
+			<a href="http://www.kuputra.com.my/">&nbsp;&nbsp;KUPUTRA</a>
+			</div>
+		</td>
+	</tr>
+
+	<tr>
+		<td width="5"></td>
+		<td width="110">
+			<a href="http://www.upm.edu.my" onclick="return clickreturnvalue()" onmouseover="dropdownmenu(this, event, 'anylinkmenu12')" class="menulink" class=&{ns4class};><div id="pantas">Berita</div></a>
+			<div id="anylinkmenu12" class="anylinkcss">
+			<a href="http://www.tribunputra.upm.edu.my/">&nbsp;&nbsp;Tribun Putra </a>
+			<a href="http://putra.upm.edu.my/buletin/buletin.nsf">&nbsp;&nbsp;Buletin Putra </a>
+		</td>
+	</tr>
+
+	<tr>
+		<td width="5"></td>
+		<td width="110">
+			<a href="http://www.upm.edu.my" onclick="return clickreturnvalue()" onmouseover="dropdownmenu(this, event, 'anylinkmenu13')" class="menulink" class=&{ns4class};><div id="pantas">Portal Staf</div></a>
+			<div id="anylinkmenu13" class="anylinkcss">
+			<a href="http://www.putra.upm.edu.my/">&nbsp;&nbsp;E-mel Putra </a>
+			<a href="http://putra.upm.edu.my/buletin/buletin.nsf">&nbsp;&nbsp;Buletin Putra </a>
+			<a href="http://km.upm.edu.my/kmportalweb/">&nbsp;&nbsp;KM Portal </a></div>
+		</td>
+	</tr>
+	<tr>
+		<td width="5"></td>
+		<td width="110">
+			<a href="http://www.upm.edu.my" onclick="return clickreturnvalue()" onmouseover="dropdownmenu(this, event, 'anylinkmenu14')" class="menulink" class=&{ns4class};><div id="pantas">Album Foto</div></a>
+			<div id="anylinkmenu14" class="anylinkcss">
+			<a href="http://www.agri.upm.edu.my/galeri.htm">&nbsp;Fakulti&nbsp;Pertanian&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+			<a href="http://econ.upm.edu.my/ealbum/">&nbsp;Fakulti&nbsp;Ekonomi&nbsp;&&nbsp;Pengurusan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+			<a href="http://webed.eng.upm.edu.my/photos/">&nbsp;Fakulti&nbsp;Kejuruteraan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+		    <a href="http://www.educ.upm.edu.my/egaleri.htm">&nbsp;Fakulti&nbsp;Pengajian&nbsp;Pendidikan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+			<a href="http://www.eco1.upm.edu.my//index.php?option=com_expose&Itemid=124">&nbsp;Fakulti&nbsp;Ekologi&nbsp;Manusia&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+			<a href="http://www.frsb.upm.edu.my/frsb2008/index.php?option=com_easygallery&Itemid=133">&nbsp;Fakulti&nbsp;Rekabentuk&nbsp;&&nbsp;Senibina&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+			<a href="http://www.medic.upm.edu.my/index.php?option=com_content&task=section&id=8&Itemid=324">&nbsp;Fakulti&nbsp;Perubatan&nbsp;&&nbsp;Sains&nbsp;Kesihatan&nbsp;</a>
+			<a href="http://www.biotech.upm.edu.my/main/index.php?option=com_easygallery&Itemid=140">&nbsp;Fakulti&nbsp;Bioteknologi&nbsp;&&nbsp;Sains&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</br>&nbsp;Biomolekul  </a>
+
+<a href="http://kolej10.com/portal/galeri">&nbsp;Kolej&nbsp;Ke&nbsp;Sepuluh&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></div>
+		</td>
+	</tr>
+
+	<tr>
+		<td width="5"></td>
+		<td width="110">
+			<a href="http://www.upm.edu.my" onclick="return clickreturnvalue()" onmouseover="dropdownmenu(this, event, 'anylinkmenu1')" class="menulink" class=&{ns4class};><div id="pantas">Aplikasi Online</div></a>
+			<div id="anylinkmenu1" class="anylinkcss">
+			<a href="http://www.putra.upm.edu.my/">&nbsp;&nbsp;E-mel Putra </a>
+			<a href="http://www.mutiara.upm.edu.my/v2/index.php">&nbsp;&nbsp;E-mel Mutiara </a>
+			<a href="http://www.hem.upm.edu.my/">&nbsp;&nbsp;E-Bika </a>
+			<a href="http://www.lms.upm.edu.my">&nbsp;&nbsp;E-Learning </a>
+			<a href="http://putranet.upm.edu.my/">&nbsp;&nbsp;Putranet </a>
+			<a href="http://www.sms.upm.edu.my:8080/servlet/student.Exam">&nbsp;&nbsp;Keputusan Peperiksaan </a>
+			<a href="http://www.upm.edu.my/sms">&nbsp;&nbsp;Perkhidmatan SMS </a>
+			<a href="http://www.esmp.upm.edu.my/">&nbsp;&nbsp;Pendaftaran Kursus </a>
+			<a href="http://www.psp.upm.edu.my/">&nbsp;&nbsp;Portal Pelajar </a>
+			<a href="http://www.psasir.upm.edu.my/">&nbsp;&nbsp;Institutional Repository</a></div>
+		</td>
+	</tr>
+	
+	<tr>
+		<td width="5"></td>
+		<td width="110">
+			<a href="http://www.upm.edu.my" onclick="return clickreturnvalue()" onmouseover="dropdownmenu(this, event, 'anylinkmenu15')" class="menulink" class=&{ns4class};><div id="pantas">Pautan</div> </a>
+			<div id="anylinkmenu15" class="anylinkcss">
+			<a href="http://www.mohe.gov.my/">&nbsp;&nbsp;Kementerian Pengajian &nbsp;&nbsp;Tinggi</a>
+			<a href="http://www.internationaleducationmedia.com/malaysia/universities.htm">&nbsp;&nbsp;Universiti di Malaysia</a>	
+			<a href="http://misa.studymalaysia.com/groups/">&nbsp;&nbsp;Malaysian International &nbsp;&nbsp;Student & Alumni (MISA)</a>
+			<a href="http://www.halaljakim.gov.my/">&nbsp;&nbsp;Portal Halal Jakim </a>
+                        <a href="http://www.iim.com.my/">&nbsp;&nbsp;Institut Integriti Malaysia</a>
+		        <a href="http://www.upm.edu.my/mou_partners.pdf">&nbsp;&nbsp;Rakan MoU</a>	
+
+		</td>
+	</tr>
+
+	<tr>
+		<td width="5"></td>
+		<td width="110">
+		<a href="?aktvt=sitemap&kat=X&menu=hide" class="menulink" class=&{ns4class};><div id="pantas">Peta Laman </div></a>
+	</td>
+	</tr>
+
+	<tr>
+		<td width="5"></td>
+		<td width="110">
+			<a href="http://www.admin.upm.edu.my/"  class="menulink" class=&{ns4class};><div id="pantas">Jawatan Kosong</div></a>
+		</td>
+	</tr>
+
+	<tr>
+		<td width="5"></td>
+		<td width="110">
+			<a href="?aktvt=penafian&kat=Z&menu=hide" class="menulink" class=&{ns4class};><div id="pantas">Penafian</div></a>
+		</td>
+	</tr>
+
+	<tr>
+		<td width="5"></td>
+		<td width="110">
+			<a href="?aktvt=webmaster&kat=Z&menu=hide" class="menulink" class=&{ns4class};><div id="pantas">Webmaster</div></a>
+		</td>
+	</tr>
+<tr>
+		<td width="5"></td>
+		<td width="110">
+			<a href="?aktvt=polisi&kat=Z&menu=hide" class="menulink" class=&{ns4class};><div id="pantas">Polisi</div></a>
+		</td>
+	</tr>
+
+	</table>
+<!--TAMAT: CAPAIAN PANTAS -->
+	<!--TAMAT: CAPAIAN PANTAS -->
+
+	</td>
+	<td width="2">&nbsp;</td>
+</tr>
+
+<tr><td colspan="5"  align=center>	
+</td></tr>
+</table>
+<!-- END CONTENT -->
+
+</td>
+
+<td width="5" height="100%" background="image/2.jpg" valign="top"><img src="image/t2.jpg"></td>
+</tr>
+</table>
+
+<!-- START FOOTER -->
+<table topmargin="0" leftmargin="0" border="0" cellpadding="0" cellspacing="0" width="744" height="36">
+	<tr><td height="7"><img src="image/3.jpg" border="0"></td></tr>
+
+	<tr><td background="image/4.jpg" border="0" valign="top"><div id="address">Universiti Putra Malaysia, 43400 UPM SERDANG, Selangor | T: 03-8946 6000 | F: 03-8948 7273 | E:webmaster@putra.upm.edu.my &nbsp;Hak Cipta Terpelihara UPM 2007<br>Paparan terbaik menggunakan Internet Explorer dengan resolusi 800 x 600 dan 1024 x 768 
+</div></td></tr>
+	
+</table>
+<!-- END FOOTER -->
+</body>
+</html>
